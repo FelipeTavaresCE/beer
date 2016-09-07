@@ -1,0 +1,12 @@
+# Eclipse
+.classpath
+.project
+.settings
+
+# Intellij
+beer.iml
+.idea/
+
+# Project
+target/
+overlays/
